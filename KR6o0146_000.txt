@@ -1,0 +1,4 @@
+#-*- mode: mandoku-view; -*-
+#+TITLE: 迦葉仙人說醫女人經
+#+DATE: 2015-08-30 21:01:44.079481
+#+PROPERTY: JUAN 0
