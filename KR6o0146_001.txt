@@ -1,20 +1,19 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 21:01:43.900295
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 13:01
 #+TITLE: 迦葉仙人說醫女人經
 #+PROPERTY: CBETA_ID T32n1691
 #+PROPERTY: ID KR6o0146
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 32, No. 1691
 #+PROPERTY: VOL 32
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS master
 #+PROPERTY: LASTPB <pb:KR6o0146_T_000-0787b>¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: LASTPB <pb:KR6o0146_T_001-0787b> ¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: JUAN 1
 ¶
 ¶
-No.1691¶
-
- 迦葉仙人說醫女人經¶
+No. 1691¶
+迦葉仙人說醫女人經¶
 ¶
 西天譯經三藏朝散大夫試光祿¶
 卿明教大師臣法賢奉　詔譯¶
