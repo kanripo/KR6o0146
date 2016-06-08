@@ -1,5 +1,5 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 21:01:43.900295
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 13:01
 #+TITLE: 迦葉仙人說醫女人經
 #+PROPERTY: CBETA_ID T32n1691
 #+PROPERTY: ID KR6o0146
